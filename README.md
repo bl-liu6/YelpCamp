@@ -1,4 +1,4 @@
-# YelpCamp
+# Camplify
 
 > A campground review web application
 
